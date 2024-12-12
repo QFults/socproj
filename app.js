@@ -159,7 +159,7 @@ $(document).on('ready', function () {
         $modal.removeClass('state-leave').addClass('state-appear');
         if ($(this).attr('data-section') === 'audio') {
             $modal.children('.modal').children('.modal-inset').children('.modal-body').html(`
-                    <img class="picSize" src="./images/americorps.jpg" alt="AmeriCorps NCCC Team Water 6">
+                    <img class="picSize" src="./americorps.jpg" alt="AmeriCorps NCCC Team Water 6">
                     <p><i>Myself (Top Back Left) and the rest of Water 6 preparing for deployment to Kansas City to support the W.E.B. DuBois Learning Center</i></p>
                     <hr>
                     <h3>My experience in Kansas City</h3>
